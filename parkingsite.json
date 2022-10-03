@@ -12,44 +12,22 @@
     [16.915512084960938,52.41786423064156],
     [16.908817291259766,52.42027217171408]
   
-  ]
-   "open_hours": [
-{
-"key": "Poniedziałek",
-"value": "10:00 - 18:00"
+  ]]
+
 },
-{
-"key": "Sb-nd",
-"value": "bezpłatnie"
-}
-],
-"address": "ul. Staszica 9",
-"free_spaces": "23",
-"price": "bezpłatnie",
-"extra_info": "Dalszą część trasy należy przebyć komunikacją miejską",
-"extra_info_icon":
-"https://pl.fotoomnia.com/zdjecia/thu/817ef0ebbdef0a3486187eaf6b913ab3.jpg"
-}                                           
-                                              
-                                              ]}},
-  {"type":"Feature","id": 1,"properties":
-   { "STATE_CODE": "2","NAME": "strefa B"},
-   "geometry":{"type":"Polygon","coordinates":[[
-    
-    [16.912550926208496,52.4352926606837],
-  [16.912518739700317,52.435286119773004],
-  [16.914921998977658,52.43042268396321],
-  [16.921993643045425,52.431053129337904],
-  [16.922807693481445,52.435750522019795],
-  [16.920790672302246,52.43581593039373],
-  [16.917893886566162,52.435920583590125],
-  [16.915876865386963,52.435711276948815],
-  [16.912550926208496,52.4352926606837]
-  
-  ]]}}
-            
-           
-      ]}
-  
-  
-  
+"open_hours": [
+  {
+  "key": "Poniedziałek",
+  "value": "10:00 - 18:00"
+  },
+  {
+  "key": "Sb-nd",
+  "value": "bezpłatnie"
+  }
+  ],
+  "address": "ul. Staszica 9",
+  "free_spaces": "23",
+  "price": "bezpłatnie",
+  "extra_info": "Dalszą część trasy należy przebyć komunikacją miejską",
+  "extra_info_icon":
+  "https://pl.fotoomnia.com/zdjecia/thu/817ef0ebbdef0a3486187eaf6b913ab3.jpg"   
