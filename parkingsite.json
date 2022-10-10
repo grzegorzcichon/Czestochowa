@@ -32,8 +32,8 @@
 {
 "title": "Parking 1",
 "coordinates":{
-  "latitude":[16.908817291259766],
-   "longitude":[52.42027217171408]
+ "latitude":16.908817291259766,
+   "longitude":52.42027217171408
 
 },
 "color": "#ffffff",
