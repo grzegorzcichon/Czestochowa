@@ -1,39 +1,38 @@
 [
-
 {
 "type": "MIXED",
 "Title": "Zmieszane",
 "Datę": "19.09.2022",
 "Address": "Poznań ul. Staszica 4",
-},
+}
 {
 "type": "PAPER",
 "Title": "Papier",
 "Datę": "19.09.2022",
 "Address": "Poznań ul. Staszica 4",
-},
+}
 {
 "type": "PLASTIC",
 "Title": "Plastik",
 "Datę": "19.09.2022",
 "Address": "Poznań ul. Staszica 4",
-},
+}
 {
 "type": "GLASS",
 "Title": "Szkło",
 "Datę": "19.09.2022",
 "Address": "Poznań ul. Staszica 4",
-},
+}
 {
 "type": "BIO",
 "Title": "Bio",
 "Datę": "19.09.2022",
 "Address": "Poznań ul. Staszica 4",
-},
+}
 {
 "type": "Large-FORMAT",
 "Title": "Wielkogabarytowe",
 "Datę": "19.09.2022",
 "Address": "Poznań ul. Staszica 4",
-},
+}
 ]
