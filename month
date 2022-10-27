@@ -2,18 +2,18 @@
  [
 {
 "month": "Wrzesień:",
-"days": "22 27"
+"days": "22, 27"
 },
 {
 "month": "Październik:",
-"days":    "28 30"
+"days":    "28, 30"
 },
 {
 "month": "Listopad:",
-"days": "6 24 31"
+"days": "6, 24, 31"
 }, 
 {
 "month": "Grudzień:",
-"days": "8 25 30"
+"days": "8, 25, 30"
 }
 ]
