@@ -2,7 +2,7 @@
  [
 {
 "month": "Wrzesień:",
-"days": "22,27" 
+"days": ["22","27" ]
 },
 {
 "month": "Październik:",
