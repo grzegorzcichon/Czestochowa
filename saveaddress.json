@@ -1,0 +1,18 @@
+
+[
+{
+"name": "Domek",
+"address" :"ul.Sztasica 26/ AugustynaSzmarzewskiego 23, 60-241 Poznań",
+"type" : "Zabudowa jednorodzinna"
+},
+{
+"name": "Firma XYZ 1 - spółka z ograniczoną odpowiedzialnością | warsztat i biuro",
+"address" :"ul.Hawelańska 15, 60-241 Poznań",
+"type" : "Firma"
+},
+{
+"name": "Domek 3",
+"address" :"ul.3Maja 125, 60-241 Poznań",
+"type" : "Zabudowa wielorodzinna"
+},
+]
