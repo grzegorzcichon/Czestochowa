@@ -3,9 +3,8 @@
 "title": "P&R Szymanowskiego",
 "address": "ul. Smoleńska",
 "free_spaces": "130",
-"price": "10PLN",
-"extra_info": "Opłata za parkowanie w ramach doby parkingowej ",
-"extra_info2":"Brak możliwości wykupienia abonamentu",
+"price": "bezpłatny",
+
 "extra_info_icon": "https://pl.fotoomnia.com/zdjecia/thu/817ef0ebbdef0a3486187eaf6b913ab3.jpg"
 },
 {
