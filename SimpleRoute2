@@ -13,8 +13,8 @@
                 "value": "223PLN"
             }
         ],
-        "extra_info": "Opłata za parkowanie w ramach doby parkingowej ",
-        "extra_info2": "Brak możliwości wykupienia abonamentu",
+        "extra_info": " ",
+        "extra_info2": "",
         "extra_info_icon": "https://pl.fotoomnia.com/zdjecia/thu/817ef0ebbdef0a3486187eaf6b913ab3.jpg"
     },
     {
@@ -25,12 +25,19 @@
             {
                 "label": "Cena ",
                 "value": 10 
+            },
+             {
+                "label": "Cena abonamentu 24h ",
+                "value": "1 miesiąc – 300 PLN" 
+            },
+             {
+                "label": "Cena abonamentu 24h ",
+                "value": "12 miesięcy płatne z góry – 3.300 PLN",
             }
-            
         ],
            
-        "extra_info": "Cena abonamentu 24h – 1 miesiąc – 300 PLN",
-        "extra_info2": "Cena abonamentu 24h – 12 miesięcy płatne z góry – 3.300 PLN",
+        "extra_info": "",
+        "extra_info2": "",
         "extra_info_icon": "https://pl.fotoomnia.com/zdjecia/thu/817ef0ebbdef0a3486187eaf6b913ab3.jpg"
     },
     {
@@ -40,12 +47,9 @@
         "price": [
             {
                 "label": "Cena ",
-                "value": "10PLN"
+                "value": "0"
             },
-             {
-                "label": "Cena za 3h",
-                "value": "223PLN"
-            }
+             
             
         ],
         "extra_info": "Dalszą część trasy należy przebyć komunikacją miejską",
