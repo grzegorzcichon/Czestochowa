@@ -24,8 +24,8 @@
         "price": [
             {
                 "label": "Cena ",
-                "value": "10PLN"
-            },
+                "value": 10 
+            }
             
         ],
            
