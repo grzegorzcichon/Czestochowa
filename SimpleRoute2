@@ -21,7 +21,13 @@
         "title": "Parking buforowy",
         "address": "Roosevelta",
         "free_spaces": "90",
-        "price": "10PLN",
+        "price": [
+            {
+                "label": "Cena ",
+                "value": "10PLN"
+            },
+            
+        ],
            
         "extra_info": "Cena abonamentu 24h – 1 miesiąc – 300 PLN",
         "extra_info2": "Cena abonamentu 24h – 12 miesięcy płatne z góry – 3.300 PLN",
@@ -31,7 +37,17 @@
         "title": "Adres docelowy użytkownika",
         "address": "ul. Staszica 9",
         "free_spaces": "0",
-        "price": "23,99 PLN",
+        "price": [
+            {
+                "label": "Cena ",
+                "value": "10PLN"
+            },
+             {
+                "label": "Cena za 3h",
+                "value": "223PLN"
+            }
+            
+        ],
         "extra_info": "Dalszą część trasy należy przebyć komunikacją miejską",
         "extra_info_icon": "https://pl.fotoomnia.com/zdjecia/thu/817ef0ebbdef0a3486187eaf6b913ab3.jpg"
     },
