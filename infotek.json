@@ -1,6 +1,6 @@
 [
   {
-    "id":1,
+   
     "name": "Senscaja w Katatrze",
     "data": "22.11.2022",
     "urlAvatar": "https://bi.im-g.pl/im/4e/d1/1b/z29168718IHR,Katar-2022--Saleh-Al-Shehri-cieszy-sie-z-gola-strz.jpg",
@@ -8,25 +8,32 @@
   },
   {
     
-    "id":1,
+   
     "name": "Polska remisuje z Meksykiem",
     "data": "22.11.2022",
     "urlAvatar": "https://s10.tvp.pl/images2/0/a/6/uid_0a6b37dc90db5e3775f93ef1b0bcbdc51663224048432_width_1200_play_0_pos_0_gs_0_height_678_pilkarska-reprezentacja-polski-fot-papandrzej-lange.jpg",
     "description" : "Katar 2022. Polska zremisowała z Meksykiem 2:2"
   },
   {
-    "id":2,
+   
     "name": "Projekt budżetu Poznania",
     "data": "22.11.2022",
     "urlAvatar": "https://www.poznan.pl/mim/info/pictures/obrazek,pic1,1016,192048,346656,with-ratio,16_9.jpg",
     "description" : "Projekt budżetu Poznania na 2023 rok został przedstawiony radnym podczas wtorkowej sesji. W tym roku jego stworzenie było ogromnym wyzwaniem - na kształt tego ważnego dokumentu wpłynęła galopująca inflacja, wojna w Ukrainie i wprowadzone przez rząd liczne zmiany w rozliczaniu podatków. Mimo to Miasto będzie w przyszłym roku chronić zaplanowane inwestycje i dbać o możliwość rozwoju. "
   },
   {
-    "id":1,
+   
     "name": "Raków Częstochowa zdobywa mistrzostwo Polski",
     "data": "22.11.2022",
     "urlAvatar": "https://bi.im-g.pl/im/03/0e/1b/z28371459IH.jpg",
     "description" : "Raków Częstochowa do pucharu Polski oraz superpucharu Polski, dopisuje tytuł mistrza Polski za sezon 2022-2023. "
+  },
+   {
+   
+    "name": "Koenigsegg CC850 – dwie skrzynie biegów w jednejlski",
+    "data": "22.11.2022",
+    "urlAvatar": "https://trends.com.pl/wp-content/gallery/koenigsegg-cc850/Koenigsegg-CC850-2023-1280-01.jpeg,
+    "description" : "RPod maską znalazł się doładowany silnik V8 o mocy 1405 KM przy zasilaniu paliwem E85 i 1202 KM przy tankowaniu zwykłej benzyny. Moment obrotowy to aż 1385 Nm i dokładnie tyle samo waży Koenigsegg CC850. "
   }
   
 ]
