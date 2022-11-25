@@ -2,22 +2,28 @@
 {"type":"Feature","id": 0,"properties":
 { "STATE_CODE": "1","NAME": "Śródmiejska SPP Jeżyce"},
 "geometry":{"type":"Polygon","coordinates":[[
-[16.8941521,52.4087565],
-[16.8975305,52.4140402],
-[16.9032242,52.4128046],
-[16.9043426,52.4136938],
-[16.9022691,52.4141686],
-[16.9023166,52.4142506],
-[16.9045529,52.4138216],
-[16.9053971,52.4154786],
-[16.9063191,52.4171380],
-[16.9073538,52.4181664],
-[16.9098408,52.4177306],
- {"type":"FeatureCollection","features":[
-{"type":"Feature","id": 1,"properties":
-{ "STATE_CODE": "2","NAME": "SPP Jeżyce"},
-"geometry":{"type":"Polygon","coordinates":[[
-[16.8941521,52.4087565],
+[16.908817291259766,52.42027217171408],
+[16.90469741821289,52.412838538730774],
+[16.91310882568359,52.41100611274838],
+[16.914567947387695,52.413623840846164],
+[16.91671371459961,52.41503734941619],
+[16.918516159057617,52.415927313050645],
+[16.915512084960938,52.41786423064156],
+[16.908817291259766,52.42027217171408]
+]]
+}},
+ {
+            "type":"Feature",
+            "id":1,
+            "properties":{
+                "STATE_CODE":"2",
+                "NAME":"SPP Jeżyce"
+            },
+            "geometry":{
+                "type":"Polygon",
+                "coordinates":[
+                    [
+                       [16.8941521,52.4087565],
 [16.8975305,52.4140402],
 [16.9032242,52.4128046],
 [16.9043426,52.4136938],
@@ -33,179 +39,13 @@
 [16.8943254,52.4201796],
 [16.8927624,52.4173057],
 [16.8888176,52.4095140],
+                    ]
+                ]
+            }
+        }
 
-]]
-}
-},
- {
-         "type":"Feature",
-         "id":1,
-         "properties":{
-            "STATE_CODE":"2",
-            "NAME":"SPP Jeżyce"
-         },
-         "geometry":{
-            "type":"Polygon",
-            "coordinates":[
-               [
-                  [
-                     16.8941521,
-                     52.4087565
-                  ],
-                  [
-                     16.8975305,
-                     52.4140402
-                  ],
-                  [
-                     16.9032242,
-                     52.4128046
-                  ],
-                  [
-                     16.9043426,
-                     52.4136938
-                  ],
-                  [
-                     16.9022691,
-                     52.4141686
-                  ],
-                  [
-                     16.9023166,
-                     52.4142506
-                  ],
-                  [
-                     16.9045529,
-                     52.4138216
-                  ],
-                  [
-                     16.9053971,
-                     52.4154786
-                  ],
-                  [
-                     16.9063191,
-                     52.4171380
-                  ],
-                  [
-                     16.9073538,
-                     52.4181664
-                  ],
-                  [
-                     16.9098408,
-                     52.4177306
-                  ],
-                  [
-                     16.9128493,
-                     52.4167158
-                  ],
-                  [
-                     16.9147605,
-                     52.4152013
-                  ],
-                  [
-                     16.9156301,
-                     52.4133788
-                  ],
-                  [
-                     16.9144591,
-                     52.4122320
-                  ],
-                  [
-                     16.9136294,
-                     52.4098573
-                  ],
-                  [
-                     16.9124059,
-                     52.4062766
-                  ],
-                  [
-                     16.9078835,
-                     52.4068778
-                  ],
-                  [
-                     16.9014661,
-                     52.4077552
-                  ]
-               ]
-            ]
-         }
-      }
 ],
-"open_hours": [
-{
-"key": "Poniedziałek",
-"value": "10:00 - 18:00"
-},
-{
-"key": "Sb-nd",
-"value": "bezpłatnie"
-}
-],
-"address": "ul. Staszica 9",
-"free_spaces": "23",
-"price": "bezpłatnie",
-"extra_info": "Dalszą część trasy należy przebyć komunikacją miejską",
-"extra_info_icon":
-"https://pl.fotoomnia.com/zdjecia/thu/817ef0ebbdef0a3486187eaf6b913ab3.jpg",
-"points": [
-{
-"title": "Parking 1",
-"coordinates":{
- "latitude":16.908817291259766,
-   "longitude":52.42027217171408
 
-},
-"color": "#ffffff",
-"open_hours": [
-{
-"key": "Poniedziałek",
-"value": "10:00 - 18:00"
-},
-{
-"key": "Sb-nd",
-"value": "bezpłatnie"
-}
-],
-"address": "ul. Staszica 9",
-"free_spaces": "23",
-"price": "bezpłatnie",
-"extra_info": "Dalszą część trasy należy przebyć komunikacją miejską",
-"extra_info_icon":
-"https://pl.fotoomnia.com/zdjecia/thu/817ef0ebbdef0a3486187eaf6b913ab3.jpg"
-},
-{
-"title": "Parking 2",
-"coordinates":[16.908817291259766,52.42027217171408],
-"color": "#ffffff",
-"open_hours": [
-{
-"key": "Poniedziałek",
-"value": "10:00 - 18:00"
-},
-{
-"key": "Sb-nd",
-"value": "bezpłatnie"
-}
-],
-"address": "ul. Staszica 9",
-"free_spaces": "23",
-"price": "bezpłatnie",
-"extra_info": "Dalszą część trasy należy przebyć komunikacją miejską",
-"extra_info_icon":
-"https://pl.fotoomnia.com/zdjecia/thu/817ef0ebbdef0a3486187eaf6b913ab3.jpg"
-}]
-  }
-
-[16.9128493,52.4167158],
-[16.9147605,52.4152013],
-[16.9156301,52.4133788],
-[16.9144591,52.4122320],
-[16.9136294,52.4098573],
-[16.9124059,52.4062766],
-[16.9078835,52.4068778],
-[16.9014661,52.4077552]
-]]
-}
-}
-],
 "open_hours": [
 {
 "key": "Poniedziałek",
