@@ -60,15 +60,40 @@
             }
         },
   {
-            "type":"Feature",
-            "id":2,
-            "properties":{
-                "STATE_CODE":"3",
-                "NAME":"SPP Łazarz"
+ "type":"Feature",
+ "id":2,
+ "properties":{
+ "STATE_CODE":"3",
+ "NAME":"SPP Łazarz"
             },
-            "geometry":{
-                "type":"Polygon",
-                "coordinates":[
+  "geometry":{
+  "type":"Polygon",
+  "coordinates":[
+                    [
+[16.8888196,52.4095145],                     
+[16.8887068,52.4049633],
+[16.8885549,52.4049282],
+[16.8894178,52.4002454],
+[16.8879440,52.3964186],                     
+[16.8861454,52.3930295],                      
+[16.8981409,52.3887362],                   
+[16.9043013,52.3867859],
+[16.9084401,52.3954702], 
+[16.9124059,52.4062676], 
+[16.9078835,52.4068778]                      
+         ]]
+            }
+        },
+ {
+ "type":"Feature",
+ "id":3,
+ "properties":{
+ "STATE_CODE":"4",
+ "NAME":"SPP Politechnika"
+            },
+  "geometry":{
+  "type":"Polygon",
+  "coordinates":[
                     [
 [16.8888196,52.4095145],                     
 [16.8887068,52.4049633],
