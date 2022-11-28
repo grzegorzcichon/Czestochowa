@@ -9,49 +9,8 @@
 ]]
 }
 
-},
- {"type":"Feature","id":1, "properties":
- {"STATE_CODE":"2","NAME":"SPP Jeżyce"},
- "geometry":{"type":"Polygon","coordinates":[[
-                                                        
-]]
 }
-},
- { "type":"Feature","id":2, "properties":
-  {"STATE_CODE":"3","NAME":"SPP Łazarz"},
-  "geometry":{"type":"Polygon","coordinates":[[
-                     
-]]
-}
-},
- {"type":"Feature","id":3,"properties":
-  {"STATE_CODE":"4","NAME":"SPP Politechnika"},
-  "geometry":{"type":"Polygon","coordinates":[[
-                  
-]]
-}
-},
-{"type":"Feature","id":4,"properties":
- {"STATE_CODE":"5","NAME":"Ostrów Tumski, Środka, Zagórze"},
-  "geometry":{"type":"Polygon","coordinates":[[
-                                      
-]]
-}
-},
-{"type":"Feature","id":5,"properties":
- {"STATE_CODE":"6","NAME":"SPP Widla"},
-  "geometry":{"type":"Polygon","coordinates":[[
-                
-]]
-}
-},
-{"type":"Feature","id":6,"properties":
- { "STATE_CODE":"7","NAME":"Śródmiejska SPP Centrum"},
-  "geometry":{"type":"Polygon","coordinates":[[
-                       
-]]
-}
-}
+ 
 ],
 
 "open_hours": [
